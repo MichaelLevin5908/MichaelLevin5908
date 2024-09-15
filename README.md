@@ -8,6 +8,12 @@
 - Computer Science and Mathematics Student at the University of California, Los Angeles
 - Proficient in software engineering and data analysis
 
+## 🏞️ Personal Hobbies:
+- I enjoy weightlifting and exploring global history through strategy-based board games.
+- I have a deep passion for mathematics and the ever-evolving digital landscape.
+- I'm fascinated by geopolitics, with a particular focus on modern warfare and advancements in military technology.
+- I have a strong interest in medical technology, inspired by my father's work as an interventional radiologist, and love learning how technology is transforming the healthcare industry.
+
 ## 📫 How to Reach Me:
 - Email: michaellevin42@g.ucla.edu
 
