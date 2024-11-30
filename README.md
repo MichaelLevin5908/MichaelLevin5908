@@ -13,6 +13,7 @@
 - I have a deep passion for mathematics and the constantly evolving digital landscape, especially in how the humanities intersect with technology.
 - I'm fascinated by geopolitics, with a particular focus on modern warfare and advancements in military technology.
 - I have a strong interest in medical technology, inspired by my father's work as an interventional radiologist, and love learning how technology is transforming the healthcare industry.
+- I am very interested in computer networks and how large language models affect networking and programming efficiency.
 
 ## 📫 How to Reach Me:
 - Email: michaellevin42@g.ucla.edu
