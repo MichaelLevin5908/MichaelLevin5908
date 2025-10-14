@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-- Computer Science and Mathematics Student at the University of California, Los Angeles
+- Computer Science Student at the University of California, Los Angeles
 - Proficient in software engineering and data analysis
 
 ## 🏞️ Personal Hobbies:
