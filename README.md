@@ -11,9 +11,9 @@
 ## 🏞️ Personal Hobbies:
 - I enjoy weightlifting and exploring global history through strategy-based board games.
 - I have a deep passion for mathematics and the constantly evolving digital landscape, especially in how finance intersects with technology.
-- I'm fascinated by geopolitics, with a particular focus on modern warfare and advancements in military technology.
+- I’m fascinated by modern defense systems and how large-scale coordination, reliability, and resilience inform software architecture.
 - I’m deeply interested in fintech and e-commerce — particularly the design of large-scale billing and payment systems.
-- I am very interested in computer networks and how large language models affect networking and programming efficiency.
+- I’m exploring how advances in networking and large language models transform developer productivity and distributed systems.
 
 ## 📫 How to Reach Me:
 - Email: michaellevin42@g.ucla.edu
