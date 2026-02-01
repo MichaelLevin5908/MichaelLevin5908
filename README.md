@@ -4,25 +4,48 @@
 
 </div>
 
-# 💫 About Me:
-- Computer Science Student at the University of California, Los Angeles
-- Proficient in software engineering and data analysis
+## About Me
 
-## 🏞️ Personal Hobbies:
-- I enjoy weightlifting and exploring global history through strategy-based board games.
-- I have a deep passion for mathematics and the constantly evolving digital landscape, especially in how finance intersects with technology.
-- I’m fascinated by modern defense systems and how large-scale coordination, reliability, and resilience inform software architecture.
-- I’m deeply interested in fintech and e-commerce, particularly the design of large-scale billing and payment systems.
-- I’m exploring how advances in networking and large language models transform developer productivity and distributed systems.
+I’m a software engineer and Computer Science student at the University of California, Los Angeles (Class of 2026), focused on infrastructure, distributed systems, and developer platforms.
 
-## 📫 How to Reach Me:
-- Email: michaellevin42@g.ucla.edu
+My interests center on large-scale systems design, usage tracking and billing primitives, and the reliability challenges that arise in highly distributed environments. I enjoy working across backend systems and data-heavy applications, with an emphasis on correctness, performance, and operational simplicity.
 
-## Connect with Me:
+I’m particularly interested in how pricing, limits, and cost attribution become first-class concerns in modern software systems, as well as how advances in networking and machine learning are reshaping developer productivity.
+
+## Interests
+
+- Distributed systems and backend infrastructure  
+- Billing, metering, and cost attribution systems  
+- Reliability, coordination, and fault tolerance  
+- Developer tooling and platform engineering  
+- Applied mathematics and systems design  
+
+## Personal
+
+- Weightlifting and strength training  
+- Global history and strategy-based board games  
+- Studying modern defense systems and resilience-driven design  
+
+## How to Reach Me
+
+- Email: michaellevin42@g.ucla.edu  
+
+## Connect with Me
+
 [LinkedIn](https://www.linkedin.com/in/mikelevin-/) | [Website](https://levinm.dev/)
 
-# 💻 Technologies:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+## Technologies
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLevin5908&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
