@@ -8,7 +8,7 @@
 
 I’m a software engineer and Computer Science student at the University of California, Los Angeles (Class of 2026), focused on infrastructure, distributed systems, and developer platforms.
 
-I have prior software engineering experience at GitHub and Coinbase, where I worked on large-scale backend systems and developer-facing infrastructure. My interests center on usage tracking and billing primitives, reliability challenges in distributed environments, and designing systems where pricing, limits, and cost attribution are first-class concerns.
+I am an incoming software engineer on the platforms team at Coinbase, and I have prior software engineering experience at GitHub. At Github, I worked on large-scale backend systems and developer-facing infrastructure. My interests center on usage tracking and billing primitives, reliability challenges in distributed environments, and designing systems where pricing, limits, and cost attribution are first-class concerns.
 
 I enjoy working across backend systems and data-heavy applications, with an emphasis on correctness, performance, and operational simplicity. I’m particularly interested in how advances in networking and machine learning are reshaping developer productivity.
 
