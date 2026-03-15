@@ -2,37 +2,46 @@
 
 # Michael Levin
 
+Building infrastructure for usage-based systems.
+
+Founder @ Drip (YC P26)
+
 </div>
 
-## About Me
+---
 
-I’m a software engineer and Computer Science student at the University of California, Los Angeles (Class of 2026), focused on infrastructure, distributed systems, and developer platforms.
+## About
 
-I am an incoming software engineer on the platforms team at Coinbase, and I have prior software engineering experience at GitHub. At Github, I worked on large-scale backend systems and developer-facing infrastructure. My interests center on usage tracking and billing primitives, reliability challenges in distributed environments, and designing systems where pricing, limits, and cost attribution are first-class concerns.
+I’m a software engineer and founder building **Drip**, infrastructure for real-time usage metering, billing, and settlement for APIs and AI agents.
 
-I enjoy working across backend systems and data-heavy applications, with an emphasis on correctness, performance, and operational simplicity. I’m particularly interested in how advances in networking and machine learning are reshaping developer productivity.
+Previously I worked on the **metered billing platform at GitHub**, where I helped build backend systems used to track usage and power developer-facing infrastructure at scale.
 
-## Interests
+I’m interested in systems where **pricing, limits, and cost attribution are first-class primitives**, especially in distributed environments where reliability and correctness matter.
 
-- Distributed systems and backend infrastructure  
-- Billing, metering, and cost attribution systems  
-- Reliability, coordination, and fault tolerance  
-- Developer tooling and platform engineering  
-- Applied mathematics and systems design  
+Currently:
+- Founder @ **Drip (YC P26)**  
+- Incoming SWE on the **Platforms team at Coinbase**  
+- Computer Science @ **UCLA (Class of 2026)**
 
-## Personal
+---
 
-- Weightlifting and strength training  
-- Global history and strategy-based board games  
-- Studying modern defense systems and resilience-driven design  
+## What I Work On
 
-## How to Reach Me
+- Usage metering and billing infrastructure  
+- Distributed systems and backend platforms  
+- Reliability and coordination in production systems  
+- Developer infrastructure and tooling  
 
-- Email: michaellevin42@g.ucla.edu  
+---
 
-## Connect with Me
+## Projects
 
-[LinkedIn](https://www.linkedin.com/in/mikelevin-/) | [Website](https://levinm.dev/) | [drippay.dev](https://drippay.dev)
+### Drip
+Infrastructure for real-time usage metering, billing, and settlement for APIs and AI agents.
+
+https://drippay.dev
+
+---
 
 ## Technologies
 
@@ -46,7 +55,15 @@ I enjoy working across backend systems and data-heavy applications, with an emph
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/mikelevin-  
+Website: https://levinm.dev  
+Drip: https://drippay.dev
+
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLevin5908&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
