@@ -60,7 +60,6 @@ https://drippay.dev
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/mikelevin-  
-Website: https://levinm.dev  
 Drip: https://drippay.dev
 
 ---
