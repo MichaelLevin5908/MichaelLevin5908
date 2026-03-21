@@ -19,8 +19,7 @@ Previously I worked on the **metered billing platform at GitHub**, where I helpe
 I’m interested in systems where **pricing, limits, and cost attribution are first-class primitives**, especially in distributed environments where reliability and correctness matter.
 
 Currently:
-- Founder @ **Drip (YC P26)**  
-- Incoming SWE on the **Platforms team at Coinbase**  
+- Founder @ **Drip (YC P26)**
 - Computer Science @ **UCLA (Class of 2026)**
 
 ---
@@ -61,6 +60,7 @@ https://drippay.dev
 
 LinkedIn: https://www.linkedin.com/in/mikelevin-  
 Drip: https://drippay.dev
+Twitter: https://x.com/mike_drip
 
 ---
 
